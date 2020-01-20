@@ -5,7 +5,7 @@
 '''
 Code #1 : Simple demonstration of format().
 '''
-# Python3 program to demonstarte 
+# Python3 program to demonstrate
 # the str.format() method 
 
 # using format option in a simple string 
